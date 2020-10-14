@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<author-retrieval-response status="found" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://webservices.elsevier.com/schemas/search/fast/types/v4" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+    <coredata>
+        <prism:url>http://api.elsevier.com/content/author/author_id/10038926000</prism:url>
+        <dc:identifier>AUTHOR_ID:10038926000</dc:identifier>
+        <document-count>37</document-count>
+        <cited-by-count>602</cited-by-count>
+        <citation-count>651</citation-count>
+    </coredata>
+    <h-index>15</h-index>
+    <coauthor-count>126</coauthor-count>
+</author-retrieval-response>

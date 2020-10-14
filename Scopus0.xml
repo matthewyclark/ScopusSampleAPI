@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search-results xmlns="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+    <opensearch:totalResults>1</opensearch:totalResults>
+    <opensearch:startIndex>0</opensearch:startIndex>
+    <opensearch:itemsPerPage>1</opensearch:itemsPerPage>
+    <opensearch:Query role="request" searchTerms="PMID(4363341) OR DOI(pmid: 4363341)" startPage="0">
+    </opensearch:Query>
+    <link href="https://api.elsevier.com/content/search/scopus?start=0&amp;count=1&amp;query=PMID%284363341%29+OR+DOI%28pmid%3A+4363341%29&amp;httpAccept=application/xml&amp;field=author,citedby-count,affiliation,title" ref="self" type="application/xml">
+    </link>
+    <link href="https://api.elsevier.com/content/search/scopus?start=0&amp;count=1&amp;query=PMID%284363341%29+OR+DOI%28pmid%3A+4363341%29&amp;httpAccept=application/xml&amp;field=author,citedby-count,affiliation,title" ref="first" type="application/xml">
+    </link>
+    <link href="https://api.elsevier.com/content/search/scopus?start=0&amp;count=1&amp;query=PMID%284363341%29+OR+DOI%28pmid%3A+4363341%29&amp;httpAccept=application/xml&amp;field=author,citedby-count,affiliation,title" ref="last" type="application/xml">
+    </link>
+    <entry>
+        <prism:url>https://api.elsevier.com/content/abstract/scopus_id/0015951064</prism:url>
+        <dc:title>Current therapy approaches of the division of cancer treatment with emphasis on pancreatic carcinoma</dc:title>
+        <citedby-count>2</citedby-count>
+        <author seq="1">
+            <author-url>https://api.elsevier.com/content/author/author_id/7402609641</author-url>
+            <authid>7402609641</authid>
+            <authname>Carter S.</authname>
+            <surname>Carter</surname>
+            <given-name>Stephen K.</given-name>
+            <initials>S.K.</initials>
+        </author>
+    </entry>
+</search-results>

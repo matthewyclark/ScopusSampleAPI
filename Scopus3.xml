@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search-results xmlns="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+    <opensearch:totalResults>1</opensearch:totalResults>
+    <opensearch:startIndex>0</opensearch:startIndex>
+    <opensearch:itemsPerPage>1</opensearch:itemsPerPage>
+    <opensearch:Query role="request" searchTerms="PMID(23358470) OR DOI(10.4161/cbt.23625)" startPage="0">
+    </opensearch:Query>
+    <link href="https://api.elsevier.com/content/search/scopus?start=0&amp;count=1&amp;query=PMID%2823358470%29+OR+DOI%2810.4161%2Fcbt.23625%29&amp;httpAccept=application/xml&amp;field=author,citedby-count,affiliation,title" ref="self" type="application/xml">
+    </link>
+    <link href="https://api.elsevier.com/content/search/scopus?start=0&amp;count=1&amp;query=PMID%2823358470%29+OR+DOI%2810.4161%2Fcbt.23625%29&amp;httpAccept=application/xml&amp;field=author,citedby-count,affiliation,title" ref="first" type="application/xml">
+    </link>
+    <link href="https://api.elsevier.com/content/search/scopus?start=0&amp;count=1&amp;query=PMID%2823358470%29+OR+DOI%2810.4161%2Fcbt.23625%29&amp;httpAccept=application/xml&amp;field=author,citedby-count,affiliation,title" ref="last" type="application/xml">
+    </link>
+    <entry>
+        <prism:url>https://api.elsevier.com/content/abstract/scopus_id/84875847596</prism:url>
+        <dc:title>Lenalidomide in combination with gemcitabine as first-line treatment for patients with metastatic carcinoma of the pancreas: A sarah cannon research institute phase ii trial</dc:title>
+        <citedby-count>9</citedby-count>
+        <affiliation>
+            <affiliation-url>https://api.elsevier.com/content/affiliation/affiliation_id/60015281</affiliation-url>
+            <afid>60015281</afid>
+            <affilname>Sarah Cannon Research Institute</affilname>
+            <affiliation-city>Nashville</affiliation-city>
+            <affiliation-country>United States</affiliation-country>
+        </affiliation>
+        <affiliation>
+            <affiliation-url>https://api.elsevier.com/content/affiliation/affiliation_id/60005858</affiliation-url>
+            <afid>60005858</afid>
+            <affilname>South Carolina Oncology Associates</affilname>
+            <affiliation-city>Columbia</affiliation-city>
+            <affiliation-country>United States</affiliation-country>
+        </affiliation>
+        <affiliation>
+            <affiliation-url>https://api.elsevier.com/content/affiliation/affiliation_id/113006198</affiliation-url>
+            <afid>113006198</afid>
+            <affilname>Sarah Cannon Research Institute United Kingdom</affilname>
+            <affiliation-city>London</affiliation-city>
+            <affiliation-country>United Kingdom</affiliation-country>
+        </affiliation>
+        <affiliation>
+            <affiliation-url>https://api.elsevier.com/content/affiliation/affiliation_id/100399236</affiliation-url>
+            <afid>100399236</afid>
+            <affilname>Florida Cancer Specialists</affilname>
+            <affiliation-city>Fort Myers</affiliation-city>
+            <affiliation-country>United States</affiliation-country>
+        </affiliation>
+        <affiliation>
+            <affiliation-url>https://api.elsevier.com/content/affiliation/affiliation_id/100396931</affiliation-url>
+            <afid>100396931</afid>
+            <affilname>Oncology Hematology Care</affilname>
+            <affiliation-city>Cincinnati</affiliation-city>
+            <affiliation-country>United States</affiliation-country>
+        </affiliation>
+        <affiliation>
+            <affiliation-url>https://api.elsevier.com/content/affiliation/affiliation_id/100340656</affiliation-url>
+            <afid>100340656</afid>
+            <affilname>PLLC</affilname>
+            <affiliation-city>Nashville</affiliation-city>
+            <affiliation-country>United States</affiliation-country>
+        </affiliation>
+        <author seq="1">
+            <author-url>https://api.elsevier.com/content/author/author_id/15843528200</author-url>
+            <authid>15843528200</authid>
+            <authname>Infante J.</authname>
+            <surname>Infante</surname>
+            <given-name>Jeffrey R.</given-name>
+            <initials>J.R.</initials>
+            <afid>60015281</afid>
+            <afid>100340656</afid>
+        </author>
+        <author seq="2">
+            <author-url>https://api.elsevier.com/content/author/author_id/6603300234</author-url>
+            <authid>6603300234</authid>
+            <authname>Arkenau H.</authname>
+            <surname>Arkenau</surname>
+            <given-name>Hendrik Tobias</given-name>
+            <initials>H.T.</initials>
+            <afid>113006198</afid>
+        </author>
+        <author seq="3">
+            <author-url>https://api.elsevier.com/content/author/author_id/55995000100</author-url>
+            <authid>55995000100</authid>
+            <authname>Bendell J.</authname>
+            <surname>Bendell</surname>
+            <given-name>Johanna C.</given-name>
+            <initials>J.C.</initials>
+            <afid>60015281</afid>
+            <afid>100340656</afid>
+        </author>
+        <author seq="4">
+            <author-url>https://api.elsevier.com/content/author/author_id/35783626100</author-url>
+            <authid>35783626100</authid>
+            <authname>Rubin M.</authname>
+            <surname>Rubin</surname>
+            <given-name>Mark S.</given-name>
+            <initials>M.S.</initials>
+            <afid>60015281</afid>
+            <afid>100399236</afid>
+        </author>
+        <author seq="5">
+            <author-url>https://api.elsevier.com/content/author/author_id/7003926868</author-url>
+            <authid>7003926868</authid>
+            <authname>Waterhouse D.</authname>
+            <surname>Waterhouse</surname>
+            <given-name>David</given-name>
+            <initials>D.</initials>
+            <afid>60015281</afid>
+            <afid>100396931</afid>
+        </author>
+        <author seq="6">
+            <author-url>https://api.elsevier.com/content/author/author_id/56049046000</author-url>
+            <authid>56049046000</authid>
+            <authname>Jones G.</authname>
+            <surname>Jones</surname>
+            <given-name>George Tripp</given-name>
+            <initials>G.T.</initials>
+            <afid>60005858</afid>
+        </author>
+        <author seq="7">
+            <author-url>https://api.elsevier.com/content/author/author_id/57203082732</author-url>
+            <authid>57203082732</authid>
+            <authname>Spigel D.</authname>
+            <surname>Spigel</surname>
+            <given-name>David R.</given-name>
+            <initials>D.R.</initials>
+            <afid>60015281</afid>
+            <afid>100340656</afid>
+        </author>
+        <author seq="8">
+            <author-url>https://api.elsevier.com/content/author/author_id/35734170000</author-url>
+            <authid>35734170000</authid>
+            <authname>Lane C.</authname>
+            <surname>Lane</surname>
+            <given-name>Cassie M.</given-name>
+            <initials>C.M.</initials>
+            <afid>60015281</afid>
+        </author>
+        <author seq="9">
+            <author-url>https://api.elsevier.com/content/author/author_id/7102972135</author-url>
+            <authid>7102972135</authid>
+            <authname>Hainsworth J.</authname>
+            <surname>Hainsworth</surname>
+            <given-name>John D.</given-name>
+            <initials>J.D.</initials>
+            <afid>60015281</afid>
+            <afid>100340656</afid>
+        </author>
+        <author seq="10">
+            <author-url>https://api.elsevier.com/content/author/author_id/7006835704</author-url>
+            <authid>7006835704</authid>
+            <authname>Burris H.</authname>
+            <surname>Burris</surname>
+            <given-name>Howard A.</given-name>
+            <initials>H.A.</initials>
+            <afid>60015281</afid>
+            <afid>100340656</afid>
+        </author>
+    </entry>
+</search-results>

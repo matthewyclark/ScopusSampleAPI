@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search-results xmlns="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+    <opensearch:totalResults>1</opensearch:totalResults>
+    <opensearch:startIndex>0</opensearch:startIndex>
+    <opensearch:itemsPerPage>1</opensearch:itemsPerPage>
+    <opensearch:Query role="request" searchTerms="PMID(165739) OR DOI(10.1016/0002-9610(75)90347-5)" startPage="0">
+    </opensearch:Query>
+    <link href="https://api.elsevier.com/content/search/scopus?start=0&amp;count=1&amp;query=PMID%28165739%29+OR+DOI%2810.1016%2F0002-9610%2875%2990347-5%29&amp;httpAccept=application/xml&amp;field=author,citedby-count,affiliation,title" ref="self" type="application/xml">
+    </link>
+    <link href="https://api.elsevier.com/content/search/scopus?start=0&amp;count=1&amp;query=PMID%28165739%29+OR+DOI%2810.1016%2F0002-9610%2875%2990347-5%29&amp;httpAccept=application/xml&amp;field=author,citedby-count,affiliation,title" ref="first" type="application/xml">
+    </link>
+    <link href="https://api.elsevier.com/content/search/scopus?start=0&amp;count=1&amp;query=PMID%28165739%29+OR+DOI%2810.1016%2F0002-9610%2875%2990347-5%29&amp;httpAccept=application/xml&amp;field=author,citedby-count,affiliation,title" ref="last" type="application/xml">
+    </link>
+    <entry>
+        <prism:url>https://api.elsevier.com/content/abstract/scopus_id/0016742130</prism:url>
+        <dc:title>Total pancreatectomy with primary mesenteric vascular reconstruction</dc:title>
+        <citedby-count>6</citedby-count>
+        <author seq="1">
+            <author-url>https://api.elsevier.com/content/author/author_id/7005305503</author-url>
+            <authid>7005305503</authid>
+            <authname>Dardik H.</authname>
+            <surname>Dardik</surname>
+            <given-name>Herbert</given-name>
+            <initials>H.</initials>
+        </author>
+        <author seq="2">
+            <author-url>https://api.elsevier.com/content/author/author_id/7003832219</author-url>
+            <authid>7003832219</authid>
+            <authname>Dardik I.</authname>
+            <surname>Dardik</surname>
+            <given-name>Irving I.</given-name>
+            <initials>I.I.</initials>
+        </author>
+        <author seq="3">
+            <author-url>https://api.elsevier.com/content/author/author_id/6507364005</author-url>
+            <authid>6507364005</authid>
+            <authname>Spreyregen S.</authname>
+            <surname>Spreyregen</surname>
+            <given-name>Seymour</given-name>
+            <initials>S.</initials>
+        </author>
+        <author seq="4">
+            <author-url>https://api.elsevier.com/content/author/author_id/7102399882</author-url>
+            <authid>7102399882</authid>
+            <authname>Becker N.</authname>
+            <surname>Becker</surname>
+            <given-name>Norwin</given-name>
+            <initials>N.</initials>
+        </author>
+        <author seq="5">
+            <author-url>https://api.elsevier.com/content/author/author_id/7003713702</author-url>
+            <authid>7003713702</authid>
+            <authname>Gliedman M.</authname>
+            <surname>Gliedman</surname>
+            <given-name>Marvin L.</given-name>
+            <initials>M.L.</initials>
+        </author>
+    </entry>
+</search-results>
